@@ -2,7 +2,7 @@
 
 ![Choose](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.huffingtonpost.com%2F2016-05-09-1462761733-5966723-chooseyourown.jpg&f=1&nofb=1)
 
-## Homework Overview
+## Project Overview
 
 Using what you know about data types, variables, operators, conditional blocks, and accepting user input, you'll be creating a text-based game that allows the user to arrive at different "destinations" based on the inputs they type.
 
@@ -14,6 +14,7 @@ Using what you know about data types, variables, operators, conditional blocks, 
 - Your adventure must offer the user an option to **replay** at the end.
 - Your code must contain **at least one switch statement**.
 - Your code must make use of **both string and number user inputs**.
+- Find a way to implement a **loop** of some sort into your code. Maybe a user has to keep guessing until they guess the right option (give them choices)?
 
   **Hint:** You may need :
 
@@ -29,10 +30,10 @@ Using what you know about data types, variables, operators, conditional blocks, 
 - `cd` into the directory
 - Run the command `code .` to open it in VS Code.
 - Start by looking at the starter files in the `starter` directory
-- Open the `index.html` in your browser
+- Open the `index.html` in your browser to run your code
   - `open starter/index.html` for mac
   - `explorer.exe starter` and select the html file for windows
-- All of your javascript will be run in the browser, `node` will not work
+- All of your JavaScript will be run in the browser, `node` will not work
 
 ### How to Get User Input
 
@@ -61,11 +62,11 @@ Whatever we type into the textbox in the window that prompt() brings up, is retu
 
 #### `confirm()`
 
-Like `prompt()`, confirm opens a pop-up but instead of a text input field, the pop up has two buttons, **ok** and **cancel**. If the user selects **ok**, `confirm()` returns `true` (and otherwise returns `false`). Also like prompt, `confirm()` also takes a string that will be displayed to the user in the pop up.
+Like `prompt()`, `confirm()` opens a pop-up but instead of a text input field, the pop up has two buttons, **Ok** and **Cancel**. If the user selects **Ok**, `confirm()` returns `true` (and otherwise returns `false`). Also like prompt, `confirm()` also takes a string that will be displayed to the user in the pop up.
 
 ![Pass](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FnjYrp176NQsHS%2Fgiphy-downsized-large.gif&f=1&nofb=1)
 
-...this homework (jk)
+...this project (jk)
 
 ### Need Some Inspiration?
 
@@ -75,9 +76,11 @@ How about...
 - A "Top Chef" style cooking adventure where the player is the chef, trying to make dinner for an elite group of judges. Possible obstacles include overcooking the meal, running out of time or mean judges.
 - A Harry Potter themed adventure where the user is Harry and he must find all the horcruxes. Possible obstacles include He-who-must-not-be-named, Professor Snape or Ron being completely useless.
 
-![Delorian](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F7TZvWKVkm0xXi%2Fgiphy.gif&f=1&nofb=1)
-
 ### Pseudo-coded Example
+
+Below is full on pseudo-coded example of an entire adventure themed in Back to the Future.  Read through it to get an idea of how you might structure *your* game...
+
+![Delorian](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F7TZvWKVkm0xXi%2Fgiphy.gif&f=1&nofb=1)
 
 What is your name?
 
@@ -125,7 +128,3 @@ Nice to meet you, `Marty`. What year would you like to go to? **(YYYY)**
           - Smart choice. Unfortunately the Doc was deeply in love with Clara, and when he gets back to 1985 he becomes very depressed.
 
 ![Doc](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fhn45V8hBhRIpW%2Fgiphy.gif&f=1&nofb=1)
-
-## Submission Guidelines
-
-- PR must be submitted utilizing these guidelines: [PR Guidelines](https://github.com/SEI-R-2-22/template_pull_request)
