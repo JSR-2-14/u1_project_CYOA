@@ -15,8 +15,9 @@ Using what you know about data types, variables, operators, conditional blocks, 
 - Your code must contain **at least one switch statement**.
 - Your code must make use of **both string and number user inputs**.
 - Find a way to implement a **loop** of some sort into your code. Maybe a user has to keep guessing until they guess the right option (give them choices)?
+- Have the user have to **answer with each of the three main datatypes** (integer, boolean, string) somewhere in their adventure
 
-  **Hint:** You may need :
+  **Hint:** You may need:
 
   > - `parseInt()`
   > - `toString()`
