@@ -93,6 +93,7 @@ const playGame = function () {
         } else {
             alert("You no follow instructions, lets try again")
             playGame()
+
         }
 
 
