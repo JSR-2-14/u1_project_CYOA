@@ -1,0 +1,55 @@
+You just got off the Greyhound in Nashville with nothing but the boots on your feet and an old acoustic guitar. You're determined to become a bonafide country music star - platinum records, multiple grammy awards, a transition into feature films, the works! You step through the bus station door and out onto the dusty streets of Music City, USA. Just then a brief, fleeting, moment of doubt washes over you like a cold wave. For a split second you're scared, uncertain... Are you sure you want to do this? There's still time to choose a more stable career path... Continue?
+
+
+You're damn right you want to do this. You didn't travel all the way from the outskirts of Thompson, Manitoba to bail now. Before you do anything else, you've got to create a catchy stage name. 
+    - name
+
+{name}... Yea that will look real nice etched on a grammy.  And how old are you, {name}?
+
+    >= 40
+
+        Well, You've been in town for over a month now and it's become clear that anyone over 40 might as well be a corpse as far as record labels are concerned. You're sure you can still get that Grammy, you might just have to get creative about it. Do you become a (G)host writer for a younger, more attractive artist, an (A)udio engineer for a younger, more attractive band, or a (M)asked EDM producer so you can hide your old wrinkly face behind a space helmet costume?
+
+            Ghost Writer
+
+                Writing music for other people can be financially lucrative. What's your specialty - lyrics or music?
+
+                L
+                
+                    After attending meetings with several well known music publishers, you learn that these days most country lyrics are actually generated via an automated algorithm programmed by drunk orangatans. You get a job waiting tables and enroll in a coding bootcamp in hopes of making a career change.
+
+                M
+
+                    Harlan Howard once said that country music is just '3 chords and the truth. After attending a few co-writing sessions with other local writers, you discover that everyone here already knows all three of those chords. You realize you're bringing nothing new to the table, so you call your old boss at Tim Horton's in Manitoba and ask if you can get your old gig back. 
+
+
+            Audio engineer
+
+                There are studios all over this town. You decide to get a job working behind the glass. Do you want to work with major artists or indy acts?
+
+                    M
+
+                        You quickly learn that major Country artist don't actually require an engineer at their sessions. They all use a ProTools template that was set up by Rascall Flatts in 1998. You decide to go back to school for business like your parents wanted you to.
+
+                    I 
+
+                        You land a cool job working the analog SSl 4000 at a studio in East Nashville. The indy bands you work with are really talented, unfortunately they all try to pay you in cases of Schlitz. Your landlord requires real money for rent, so you cash in some empties and buy a ticket back to Manitoba.
+
+
+            Masked EDM DJ
+
+                If Daft Punk can make it big without showing their faces, so can you. The only question is what kind of mask will you wear? A Ski Mask, or a Mickey mouse mask?
+
+                    Ski
+
+                        You're walking to grab a coffee one morning in your signature black ski mask and are mistaken for a suspect in a recent bank robery. A classic cops & robbers shootout ensues in the middle of broad daylight. You, an unarmed canadian, are no match for the fire power of the militarized american police force and sadly, you are killed.  
+                
+                    M 
+
+                        An old childhood halloween costume comes in handy. You begin performing your EDM hits at local raves, clubs, and house parties. Just as you begin making strides in your career, Disney sues the ever-loving shit out of you and you lose everything. Broke and broken, you hitchhike back to Manitoba.
+
+
+
+
+    30-39
+
