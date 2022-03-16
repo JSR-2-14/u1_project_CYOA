@@ -8,14 +8,14 @@ Using what you know about data types, variables, operators, conditional blocks, 
 
 ### Requirements
 
-- Any path the user goes down must ask them at least **three** questions.
-- There must be a minimum of **seven** total destinations the user could arrive at based on their responses.
-- For **at least one** of the questions asked, there must be **more than two** possible user responses.
+- Any path the user goes down must ask them at least **three** questions. (done?)
+- There must be a minimum of **seven** total destinations the user could arrive at based on their responses.(done)
+- For **at least one** of the questions asked, there must be **more than two** possible user responses.(done)
 - Your adventure must offer the user an option to **replay** at the end.
-- Your code must contain **at least one switch statement**.
-- Your code must make use of **both string and number user inputs**.
-- Find a way to implement a **loop** of some sort into your code. Maybe a user has to keep guessing until they guess the right option (give them choices)?
-- Have the user have to **answer with each of the three main datatypes** (integer, boolean, string) somewhere in their adventure
+- Your code must contain **at least one switch statement**. (done)
+- Your code must make use of **both string and number user inputs**.(not done)
+- Find a way to implement a **loop** of some sort into your code. Maybe a user has to keep guessing until they guess the right option (give them choices)? (not done)
+- Have the user have to **answer with each of the three main datatypes** (integer, boolean, string) somewhere in their adventure (not done)
 
   **Hint:** You may need:
 
