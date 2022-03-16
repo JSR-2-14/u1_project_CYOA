@@ -13,7 +13,7 @@ const playGame = () => {
     let answer = confirm("You just got off the Greyhound in Nashville with nothing but the boots on your feet and an old acoustic guitar. You're determined to become a bonafide country music star - platinum records, multiple grammy awards, a transition into feature films, the works! You step through the bus station door and out onto the dusty streets of Music City, USA. Just then a brief, fleeting moment of doubt washes over you like a cold wave. For a split second you're scared, uncertain... Are you sure you want to do this? There's still time to choose a more stable career path... Continue?");
     if (answer === true) {
         let name = prompt("You're damn right you want to do this. You didn't travel all the way from Moose Jaw, Saskatchewan to bail now. Before you do anything else, you've got to create a catchy stage name.")
-        let age = prompt(`${name}... That's great stage name. It will look real nice etched on a grammy. And how old are you, ${name}?`)
+        let age = prompt(`${name}... That's great stage name. It'll look real nice etched on a grammy. And how old are you, ${name}?`)
         if (age >= 40) {
             let planB = prompt ("Oooooh, I hate to break it to you, but anyone over 40 might as well be a corpse as far as record labels are concerned. I'm sure you can still get that Grammy, you just might have to get creative about it. Do you want to become a (G)host writer for a younger, more attractive artist, an (A)udio engineer for a younger, more attractive band, or a (M)asked EDM producer so you can hide your old wrinkly face behind some sort of costume?")
 
