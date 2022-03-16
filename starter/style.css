@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  img {
+    display: block;
+    margin: 20px auto auto;
+    max-width: 920px;
+    width: 100%;
+  }
+  span {
+    color: #79AA00;
+    display: block;
+    font-size: 1.2em;
+    font-style: italic;
+    margin: auto;
+    text-align: center;
+  }
+  button {
+    color: #fff;
+    cursor: pointer;
+    display: block;
+    background-color: #79AA00;
+    border-bottom: 5px solid #497012;
+    border-left: 1px solid #497012;
+    border-right: 1px solid #497012;
+    border-top: 1px solid #497012;
+    border-radius: 4px;
+    font-size: 1.5em;
+    margin: 10px auto;
+    max-width: 220px;
+    padding: 8px;
+    position: relative;
+    text-transform: uppercase;
+    width: 50%;
+  }
+  button:hover {
+    background-color: #76990B;
+    border-bottom: 4px solid #497012;
+    top: 1px;
+  }
